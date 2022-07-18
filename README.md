@@ -2,7 +2,7 @@
 
 - O projeto é uma wiki do anime berserk que conta com informações sobre a História, Personagens, Novidades, História do autor e os capitulos do mangá(Futuramente adicionado).
 
-- Foi feito utilizando coiceitos de HTML e CSS.
+- Foi feito utilizando conceitos de HTML e CSS.
 
 # Funcionalidades
 
