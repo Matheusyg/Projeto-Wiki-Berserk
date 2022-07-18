@@ -21,4 +21,4 @@
 
 # Autor e Intuito do Projeto
 
-Este projeto foi desenvolvido por mim (Matheus Costa), com o intuito inicial de estudo, prática e aprimoramento dos meus conhecimentos
+Este projeto foi desenvolvido por mim (Matheus Costa), com o intuito inicial de estudo, prática e aprimoramento dos meus conhecimentos.
