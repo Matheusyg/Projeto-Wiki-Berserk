@@ -14,10 +14,10 @@
 
 # Tecnologias Usadas
 
--HTML
--CSS
--Github
--Git
+- HTML
+- CSS
+- Github
+- Git
 
 # Autor e Intuito do Projeto
 
