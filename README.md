@@ -6,11 +6,11 @@
 
 # Funcionalidades
 
-- Capitulos do mangá
-- A história inteira da série
-- Personagens e as informações deles
-- Novidades da série
-- História e homenagem ao autor
+- Capitulos do mangá (Futuramente Implementado)
+- A história inteira da série (Futuramente Implementado)
+- Personagens e as informações deles (Futuramente Implementado)
+- Novidades da série (Futuramente Implementado)
+- História e homenagem ao autor (Futuramente Implementado)
 
 # Tecnologias Usadas
 
@@ -18,6 +18,11 @@
 - CSS
 - Github
 - Git
+
+# Imagens do Projeto
+
+![LandingPage-Berserk](https://user-images.githubusercontent.com/104793531/183655809-8968c7cd-03d8-4fea-a59e-0e5d86301d74.jpeg)
+
 
 # Autor e Intuito do Projeto
 
